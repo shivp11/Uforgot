@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "284743321227",
+    "firebase_url": "https://uforgot-b4d54-default-rtdb.firebaseio.com",
+    "project_id": "uforgot-b4d54",
+    "storage_bucket": "uforgot-b4d54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284743321227:android:76c177456972c5e845768e",
+        "android_client_info": {
+          "package_name": "com.example.uforgot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284743321227-fc8dkbmmfufidju54e0he0vh7mb3hrko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscSIHnrkidhtBKWrToRTz4h6ILxKC7Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284743321227-fc8dkbmmfufidju54e0he0vh7mb3hrko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
